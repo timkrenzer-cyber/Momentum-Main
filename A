@@ -1,0 +1,36 @@
+# Momentum Workout — Partner Beta Guide
+
+## Install
+
+1. Install **TestFlight** from the App Store.
+2. Open the invitation from the app owner.
+3. Tap **Accept**, then **Install**.
+
+## First workout
+
+- In **Plan**, select Machine Strength, Free Weights, Calisthenics, or Hybrid Fitness. You can change programs at any time without losing history.
+- In **Plan**, review each starting weight and change anything that is too heavy or too light.
+- In **Today**, tap **Start Workout**.
+- Enter the actual weight and reps for each completed set, then tap the circle to mark it complete.
+- Use the RPE slider to record effort: 7 means about three good reps left; 8 means two; 9 means one; 10 means no more clean reps.
+- Tap **Finish** to save. Incomplete sets are not stored.
+
+## Progression
+
+When every working set reaches the top of its rep range with clean form and RPE 9 or below, Momentum recommends the configured weight increase next time. Otherwise it repeats the weight. If a set is below the minimum rep target, it suggests considering a lower load, but it never lowers your saved working weight automatically.
+
+For calisthenics, first add clean repetitions. At the top of the range, move to a harder variation or add a small load. Planks track seconds and cardio tracks minutes.
+
+## Send feedback
+
+In TestFlight, open **Momentum Workout → Send Beta Feedback**. Add a screenshot and a brief description of what happened. TestFlight automatically includes useful device and build information.
+
+Workout records are stored locally on the device in this beta. Deleting the app deletes its data.
+
+## Optional gamification and challenges
+
+Open **Compete** and enable gamification to reveal points, levels, streaks, badges, and personal quests. Peer challenges remain available whether gamification is on or off. Create a challenge and share its eight-character code, or use **Join with Code** to enter a friend's competition. Tap **Publish & Refresh Leaderboard** after workouts to update your score.
+
+To be found by other testers, open **Compete**, enter a unique username, turn on **Let other users find me**, and save the challenge profile. Use **Find People to Challenge** to search by username and send one of your active challenges. Incoming direct challenges can be accepted or declined from the Compete screen. Searchability is optional and off until the user enables it.
+
+Open **Compete → Teams & Global Leaderboard** to create a team or join with a teammate's code. Tap **Publish Score & Refresh** after workouts. Each member's points contribute to the team's total for the current month, and all active teams appear on the global leaderboard.
