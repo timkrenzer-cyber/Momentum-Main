@@ -1,0 +1,34 @@
+# What to Test — Build 1
+
+Thank you for testing Momentum Workout. Please focus on this complete flow:
+
+1. Open **Plan** and switch among Machine Strength, Free Weights, Calisthenics, and Hybrid Fitness. Confirm each program shows a different A/B/C plan.
+2. Choose two weighted exercises and change their starting weights.
+3. Open **Today**, start the recommended workout, and log at least two complete exercises.
+4. Log a bodyweight movement or timed plank and confirm the fields and progress chart use reps or seconds instead of pounds.
+5. For one weighted exercise, reach the top of its rep range on every set. Confirm the next recommended weight increases.
+6. Finish the workout and confirm it appears in **History** with its program name and every completed set.
+7. Open **Progress**, select the exercises you logged, and confirm the chart and metrics match the exercise type.
+8. Force-quit and reopen the app. Confirm the selected program, workout, and settings are still present.
+9. Open an exercise's video link and confirm YouTube opens to a useful demonstration search.
+10. Enable gamification, create a personal quest, and confirm its progress changes after a workout.
+11. Create a peer challenge, share its invite code, join on a second iCloud account, and confirm both scores appear in the leaderboard.
+12. Share an exercise-progress summary and a completed workout through the iOS share sheet.
+13. On two different iCloud accounts, create unique challenge usernames and enable searchability.
+14. Search for the second user's username, send a direct challenge, and confirm it appears in their Challenge Invitations section.
+15. Accept and decline invitations and confirm accepted challenges appear in the peer-challenge list.
+16. Turn searchability off, save the profile, and confirm it no longer appears in a search from the other account.
+17. Create a team and share its eight-character join code with the second tester.
+18. Join the team on the second device, publish both members' scores, and confirm the team-member list totals update.
+19. Create a second team on another account and confirm both teams appear in the global monthly leaderboard in score order.
+20. Leave a team and confirm that user is removed from the current month's member list after refresh.
+
+Please report:
+
+- iPhone model and iOS version
+- What you were doing
+- What you expected
+- What happened instead
+- A screenshot or screen recording, if possible
+
+Do not use a suggested starting weight if it feels inappropriate. Adjust it before training and stop any movement that causes sharp pain, dizziness, chest pain, or unusual shortness of breath.
